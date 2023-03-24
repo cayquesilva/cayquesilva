@@ -1,5 +1,5 @@
 ## 👨🏻‍ 💻Opa, eu sou o Cayque Silva.
-## ☕ Gestor de TI pela SEDUC/CG, Desenvolvedor PHP/React-js e amante da informática!
+## ☕ Gestor de TI pela SEDUC/CG, Desenvolvedor  FullStack - PHP | ReactJs | NodeJs | Css | Html.
 
 <div>
 
